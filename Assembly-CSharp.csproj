@@ -60,9 +60,9 @@
     <Compile Include="Assets\Samples\Input System\1.3.0\Simple Demo\SimpleController_UsingActions.cs" />
     <Compile Include="Assets\Samples\Input System\1.3.0\Simple Demo\SimpleController_UsingActionAsset.cs" />
     <Compile Include="Assets\Samples\Input System\1.3.0\Simple Demo\SimpleController_UsingPlayerInput.cs" />
+    <Compile Include="Assets\MyTest\Scripts\InputController.cs" />
     <Compile Include="Assets\Samples\Input System\1.3.0\Simple Demo\SimpleController_UsingState.cs" />
     <Compile Include="Assets\MyTest\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\MyTest\Scripts\InputController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
